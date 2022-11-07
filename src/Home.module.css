@@ -1,0 +1,11 @@
+.home {
+  background-color: var(--bg-light);
+  border-radius: 15px;
+  padding: 0 20px 15px 20px;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,1 @@
+Set `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`, update the bucket and endpoint in `upload.sh`, and the run `upload.sh`.
