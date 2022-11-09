@@ -6,7 +6,7 @@ type Props = {
 };
 
 const Icon: Component<Props> = (props: Props) => {
-    return <img src={props.src} class={styles.icon}></img>;
+    return <img draggable={false} src={props.src} class={styles.icon}></img>;
 }
 
 export default Icon;
